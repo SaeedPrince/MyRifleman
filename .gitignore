@@ -60,3 +60,6 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Huge files
+T_Vegetation_Debris_002_D_R.uasset
